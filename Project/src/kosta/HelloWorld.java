@@ -3,10 +3,11 @@ package kosta;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		//Ãæµ¹¹ß»ý ¿¹Á¦
+		//ï¿½æµ¹ï¿½ß»ï¿½ ï¿½ï¿½ï¿½ï¿½
 		System.out.println("hello!");
-		System.out.println("?†Œ?žˆ?ˆ„?‚˜?Š” ë¹›ê³¼?†Œê¸?");
-
+		System.out.println("?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½ ë¹›ê³¼?ï¿½ï¿½ï¿½?");
+		
+		System.out.println("test!");
 	}
 
 }
