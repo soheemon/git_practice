@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("?��?��?��?��?�� 빛과?���?");
 		
 		System.out.println("test!");
+		//merge request
 	}
 
 }
