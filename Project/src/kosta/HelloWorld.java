@@ -3,9 +3,9 @@ package kosta;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		//Ãæµ¹¹ß»ı ¿¹Á¦
+		//ì¸ì½”ë”©ì¢€í•´ì¤˜ì–´ì—‰
 		System.out.println("hello!");
-		System.out.println("?†Œ?ˆ?ˆ„?‚˜?Š” ë¹›ê³¼?†Œê¸?");
+		System.out.println("sub2ë¸Œëœì¹˜ì—ì„œ ì‘ì—…");
 
 	}
 
